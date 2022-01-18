@@ -20,7 +20,7 @@ Acessar: http://localhost:8080/h2/login.jsp
 
 - GET: http://localhost:8080/pessoas
 - POST: http://localhost:8080/pessoas/cadastrar
-- PUST: http://localhost:8080/pessoas
+- PUT: http://localhost:8080/pessoas
 - DELETE: http://localhost:8080/pessoas/deletar/{id}
 
 ### MODEL
